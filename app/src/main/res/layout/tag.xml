@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textview.MaterialTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/nav_tag"
+    android:layout_weight="1"
+    android:paddingBottom="4dp"
+    android:paddingTop="4dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:text="我是标签"
+    android:gravity="center"
+    android:background="@drawable/tag_unselected"
+    android:textColor="@color/colorPrimary"
+    android:textSize="12sp">
+
+</com.google.android.material.textview.MaterialTextView>

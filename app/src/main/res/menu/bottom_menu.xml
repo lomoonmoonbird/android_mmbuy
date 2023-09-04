@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_nav_favorites"
+        android:title="@string/app_bottom_nav_all"
+        android:icon="@drawable/ic_business_center_black_24dp"/>
+
+    <item
+        android:id="@+id/bottom_nav_music"
+        android:title="@string/app_bottom_nav_tags"
+        android:icon="@drawable/ic_business_center_black_24dp"/>
+
+    <item
+        android:id="@+id/bottom_nav_places"
+        android:title="@string/app_bottom_nav_order"
+        android:icon="@drawable/ic_business_center_black_24dp"/>
+
+    <item
+        android:id="@+id/bottom_nav_news"
+        android:title="@string/app_bottom_nav_my"
+        android:icon="@drawable/ic_business_center_black_24dp"/>
+</menu>

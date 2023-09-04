@@ -1,0 +1,2 @@
+rootProject.name='mmbuy'
+include ':app'

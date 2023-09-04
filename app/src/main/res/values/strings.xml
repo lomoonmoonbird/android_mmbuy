@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mmbuy</string>
+    <string name="app_bottom_nav_all">全部</string>
+    <string name="app_bottom_nav_tags">标签</string>
+    <string name="app_bottom_nav_order">订单</string>
+    <string name="app_bottom_nav_my">我的
+    </string>
+</resources>
